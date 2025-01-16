@@ -8,8 +8,6 @@
 [![Email Me](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:aakashap309@gmail.com)  
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakashap?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
-
-
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&color=0078D7&width=600&lines=1+Year+Experience+in+Laravel;React.js+Developer;Building+Scalable+Web+Apps;Clean+Code+Advocate;Always+Learning!" alt="Typing Animation" />
@@ -18,9 +16,9 @@
 
 ## 🚀 About Me
 
-- 🌟 Fullstack Developer specializing in **PHP**, **Laravel**, **React.js**, and **CodeIgniter**.  
+- 🌟 Fullstack Developer specializing in **PHP**, **Laravel**, **React.js**, **Livewire**, and **CodeIgniter**.  
 - 👨‍💻 **1 year of professional experience in Laravel**, working on scalable and secure web applications.  
-- 🛠️ Passionate about building **RESTful APIs**, integrating third-party services, and improving **frontend performance** with React.js.  
+- 🛠️ Passionate about building **RESTful APIs**, integrating third-party services, and improving **frontend performance** with React.js and **Tailwind CSS**.  
 - 📚 Always exploring new tools and frameworks to stay ahead in the tech world.
 
 ---
@@ -38,6 +36,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Livewire](https://img.shields.io/badge/-Laravel%20Livewire-4D9CDF?logo=laravel&logoColor=white&style=for-the-badge)
+
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
@@ -48,9 +49,7 @@
 ## 📈 Current Goals
 
 - 🌱 Master advanced **React.js concepts** and integrate them into projects for intuitive user interfaces.  
-- 🏗️ Build reusable and scalable **component libraries** for React and Laravel projects.  
-- 💡 Contribute to **open-source projects** in the Laravel and React.js ecosystems.
+- 🏗️ Build reusable and scalable **component libraries** for React, Laravel Livewire, and Tailwind CSS projects.  
+- 💡 Contribute to **open-source projects** in the Laravel, Livewire, and React.js ecosystems.
 
 ---
-
-
