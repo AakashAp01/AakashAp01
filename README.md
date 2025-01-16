@@ -42,7 +42,12 @@
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![AJAX](https://img.shields.io/badge/-AJAX-4A8BDA?logo=ajax&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![FileZilla](https://img.shields.io/badge/-FileZilla-BF0000?logo=filezilla&logoColor=white&style=for-the-badge)
+![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?logo=cpanel&logoColor=white&style=for-the-badge)
+![Hostinger](https://img.shields.io/badge/-Hostinger-5333ED?logo=hostinger&logoColor=white&style=for-the-badge)
+![WinSCP](https://img.shields.io/badge/-WinSCP-50C878?logo=windows&logoColor=white&style=for-the-badge)
 
 ---
 
