@@ -1,7 +1,7 @@
 <!-- Banner or GIF -->
 <img src="https://user-images.githubusercontent.com/70989604/158782838-1bd4fd27-8410-49c8-b4e1-8a1ba582e2c3.gif" alt="Laravel Development" width="100%" />
 
-# Hi there, I'm Aakash Prajapati 👋
+# Hey, This is Aakash Prajapati 👋
 **🚀 Fullstack Developer | Laravel | React.js | CodeIgniter | PHP**
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/AakashAp01)  
@@ -45,7 +45,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Livewire](https://img.shields.io/badge/-Laravel%20Livewire-4D9CDF?logo=laravel&logoColor=white&style=for-the-badge)
 
-
 ### **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
@@ -57,10 +56,21 @@
 
 ---
 
-## 📈 Current Goals
+## 📈 GitHub Stats
+
+![Aakash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakashAp01&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashAp01&layout=compact&theme=radical)
+
+---
+
+## 🚀 Current Goals
 
 - 🌱 Master advanced **React.js concepts** and integrate them into projects for intuitive user interfaces.  
 - 🏗️ Build reusable and scalable **component libraries** for React, Laravel Livewire, and Tailwind CSS projects.  
 - 💡 Contribute to **open-source projects** in the Laravel, Livewire, and React.js ecosystems.
 
 ---
+
+## 📰 Daily.dev Card
+
+<a href="https://app.daily.dev/aakashap01"><img src="https://api.daily.dev/devcards/v2/gcvYjpKyBKN2ebsM1lydq.png?type=wide&r=hjc" width="652" alt="Aakash Prajapati's Dev Card"/></a>
