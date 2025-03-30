@@ -7,6 +7,7 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-blue?style=for-the-badge&logo=github)](https://github.com/AakashAp01)  
 [![Email Me](https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail)](mailto:aakashap309@gmail.com)  
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aakashap?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=internet-explorer)](https://your-portfolio-link.com)  
 
 ---
 
@@ -20,6 +21,8 @@
 - 👨‍💻 **1 year of professional experience in Laravel**, working on scalable and secure web applications.  
 - 🛠️ Passionate about building **RESTful APIs**, integrating third-party services, and improving **frontend performance** with React.js and **Tailwind CSS**.  
 - 📚 Always exploring new tools and frameworks to stay ahead in the tech world.
+
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="100%" />
 
 ---
 
@@ -54,6 +57,8 @@
 ![Hostinger](https://img.shields.io/badge/-Hostinger-5333ED?logo=hostinger&logoColor=white&style=for-the-badge)
 ![WinSCP](https://img.shields.io/badge/-WinSCP-50C878?logo=windows&logoColor=white&style=for-the-badge)
 
+<img src="https://media.giphy.com/media/j5QiB6zQ9U1bXYxL6S/giphy.gif" width="100%" />
+
 ---
 
 ## 📈 GitHub Stats
@@ -74,3 +79,5 @@
 ## 📰 Daily.dev Card
 
 <a href="https://app.daily.dev/aakashap01"><img src="https://api.daily.dev/devcards/v2/gcvYjpKyBKN2ebsM1lydq.png?type=wide&r=hjc" width="652" alt="Aakash Prajapati's Dev Card"/></a>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
