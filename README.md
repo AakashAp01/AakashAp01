@@ -63,14 +63,14 @@
 
 ---
 
+## 📰 Daily.dev Stats
+
+<a href="https://app.daily.dev/aakashap01"><img src="https://api.daily.dev/devcards/v2/gcvYjpKyBKN2ebsM1lydq.png?type=wide&r=hjc" width="652" alt="Aakash Prajapati's Dev Card"/></a>
+
+---
 ## 🚀 Current Goals
 
 - 🌱 Master advanced **React.js concepts** and integrate them into projects for intuitive user interfaces.  
 - 🏗️ Build reusable and scalable **component libraries** for React, Laravel Livewire, and Tailwind CSS projects.  
 - 💡 Contribute to **open-source projects** in the Laravel, Livewire, and React.js ecosystems.
 
----
-
-## 📰 Daily.dev Card
-
-<a href="https://app.daily.dev/aakashap01"><img src="https://api.daily.dev/devcards/v2/gcvYjpKyBKN2ebsM1lydq.png?type=wide&r=hjc" width="652" alt="Aakash Prajapati's Dev Card"/></a>
