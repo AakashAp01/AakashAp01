@@ -12,6 +12,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4500&color=0078D7&width=600&lines=React.js+Developer;Building+Scalable+Web+Apps;Clean+Code+Advocate;Always+Learning!" alt="Typing Animation" />
 ---
+
 ## 🚀 About Me
 
 - 🌟 Fullstack Developer specializing in **PHP**, **Laravel**, **React.js**, **Livewire**, and **CodeIgniter**.  
