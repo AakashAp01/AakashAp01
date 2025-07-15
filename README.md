@@ -58,17 +58,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [Terminal Portfolio](https://aakashap-terminal-portfolio.vercel.app) | Interactive CLI-style personal portfolio | React, Tailwind, SoundFX |
-| [Ugecy](https://ugecy.com) | Education management app with Stripe integration | Laravel, Livewire, MySQL |
-| [Mini SaaS CRM](#) | Admin dashboard with role-based access | Laravel + Vue.js |
-| [Freelance Project Panel](#) | Inventory and store panel | Laravel + TailwindCSS |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
