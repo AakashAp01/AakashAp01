@@ -11,7 +11,7 @@
 </div>
 </div>
 
----
+
 
 ## 🚀 About Me
 
@@ -20,7 +20,7 @@
 - 🎯 Passionate about building **scalable web applications**
 - 🌱 Currently exploring **DevOps & Cloud Technologies**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -46,7 +46,7 @@
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -58,7 +58,13 @@
 
 </div>
 
----
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashAp01&bg_color=0d1117&color=9d4edd&line=c77dff&point=c77dff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
 
 ## 🌟 What I'm Working On
 
@@ -67,7 +73,7 @@
 - 📚 Contributing to **Open Source** projects
 - 🚀 Exploring **Cloud Architecture** (AWS/GCP)
 
----
+
 
 ## 📫 Let's Connect
 
@@ -80,7 +86,7 @@
 
 </div>
 
----
+
 
 <div align="center">
 
