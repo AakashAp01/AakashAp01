@@ -24,7 +24,7 @@
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
