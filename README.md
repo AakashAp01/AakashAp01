@@ -67,14 +67,6 @@
 
 ---
 
-## 📰 DevCard
-
-<a href="https://app.daily.dev/aakashap01">
-  <img src="https://api.daily.dev/devcards/v2/gcvYjpKyBKN2ebsM1lydq.png?type=wide&r=hjc" width="100%" alt="Aakash's Dev Card"/>
-</a>
-
----
-
 ## 🎯 Current Goals
 
 - ✅ Improve advanced **React Patterns**  
