@@ -198,23 +198,6 @@ Status: "Building the future, one commit at a time..."
 
 <div align="center">
 
-## 🔮 FEATURED REPOSITORIES
-
-<table>
-<tr>
-<td width="50%">
-
-[![Laravel E-commerce](https://github-readme-stats.vercel.app/api/pin/?username=AakashAp01&repo=laravel-ecommerce&theme=tokyonight&bg_color=240046&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd&border_color=7b2cbf&border_radius=15)](https://github.com/AakashAp01)
-
-</td>
-<td width="50%">
-
-[![React Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=AakashAp01&repo=react-dashboard&theme=tokyonight&bg_color=240046&title_color=c77dff&text_color=e0aaff&icon_color=9d4edd&border_color=7b2cbf&border_radius=15)](https://github.com/AakashAp01)
-
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
@@ -262,7 +245,7 @@ console.log(`${developer.name}: ${developer.motto}`);
 <td align="center">
 
 <img src="https://img.shields.io/badge/🚀_GITHUB-AakashAp01-7b2cbf?style=for-the-badge&logo=github&logoColor=white&labelColor=240046" />
-
+ <img src="https://komarev.com/ghpvc/?username=AakashAp01&label=VISITORS&color=9d4edd&style=for-the-badge" alt="Profile Views" />
 </td>
 <td align="center">
 
@@ -274,17 +257,3 @@ console.log(`${developer.name}: ${developer.motto}`);
 
 </div>
 
----
-
-<div align="center">
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    "In the matrix of code, I am the architect of possibilities." ║
-║                                                                  ║
-║                         - Aakash Prajapati                      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-</div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AakashAp01&label=VISITORS&color=9d4edd&style=for-the-badge" alt="Profile Views" />
-</div>
