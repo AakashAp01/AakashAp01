@@ -2,8 +2,13 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Laravel+%7C+React+Specialist;Clean+Code+Enthusiast;Always+Learning...)
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=9d4edd&center=true&vCenter=true&width=700&height=60&lines=⚡+LARAVEL+%7C+REACT+%7C+LIVEWIRE+SPECIALIST;🚀+BUILDING+THE+FUTURE+WITH+CODE;💎+CLEAN+ARCHITECTURE+ADVOCATE;🔮+EXPLORING+DEVOPS+%26+CLOUD+TECH" alt="Typing Animation" />
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-7b2cbf?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=240046" />
+  <img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-9d4edd?style=for-the-badge&logo=clockify&logoColor=white&labelColor=240046" />
+  <img src="https://img.shields.io/badge/LOCATION-AHMEDABAD%2C_INDIA-c77dff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=240046" />
+</div>
 </div>
 
 ---
