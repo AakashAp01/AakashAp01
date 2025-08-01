@@ -277,8 +277,6 @@ console.log(`${developer.name}: ${developer.motto}`);
 ---
 
 <div align="center">
-
-```ascii
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
 ║    "In the matrix of code, I am the architect of possibilities." ║
@@ -286,14 +284,7 @@ console.log(`${developer.name}: ${developer.motto}`);
 ║                         - Aakash Prajapati                      ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=150&section=footer&text=THANKS%20FOR%20VISITING&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=75" />
-
 </div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AakashAp01&label=VISITORS&color=9d4edd&style=for-the-badge" alt="Profile Views" />
 </div>
