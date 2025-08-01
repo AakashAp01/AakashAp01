@@ -14,13 +14,12 @@
 - 🏠 Based in **Ahmedabad, India**
 - 🎯 Passionate about building **scalable web applications**
 - 🌱 Currently exploring **DevOps & Cloud Technologies**
-- ⚡ Fun fact: I turn **coffee into code**
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
