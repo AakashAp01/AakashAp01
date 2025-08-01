@@ -1,6 +1,6 @@
 # <div align="center">⚡ AAKASH PRAJAPATI ⚡</div>
 
-<div align="left">
+<div align="center">
   
 ```ascii
     ╔══════════════════════════════════════════════════════════════╗
