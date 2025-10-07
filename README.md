@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aakash Prajapati
+# Hi there! 👋 I'm Akash Prajapati
 
 <div align="center">
 
