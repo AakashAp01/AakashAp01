@@ -45,19 +45,6 @@
 
 </div>
 
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AakashAp01&show_icons=true&theme=dark&bg_color=0d1117&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9&border_color=30363d"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashAp01&layout=compact&theme=dark&bg_color=0d1117&title_color=9d4edd&text_color=c9d1d9&border_color=30363d"/>
-
-</div>
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
