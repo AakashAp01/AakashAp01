@@ -65,7 +65,6 @@ class AkashPrajapati extends FullstackDeveloper
 ### ⚙️ Backend
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,symfony,fastapi" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" title="CodeIgniter" style="background:#1e1e2e;border-radius:10px;padding:6px;" />
 </p>
 
 ### 🎨 Frontend
