@@ -1,83 +1,155 @@
-# Hi there! 👋 I'm Akash Prajapati
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=500&color=9d4edd&center=true&vCenter=true&width=700&height=60&lines=⚡+LARAVEL+%7C+REACT+%7C+LIVEWIRE+SPECIALIST;🚀+BUILDING+THE+FUTURE+WITH+CODE;💎+CLEAN+ARCHITECTURE+ADVOCATE;🔮+EXPLORING+DEVOPS+%26+CLOUD+TECH" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&animation=fadeIn" width="100%"/>
+
+<!-- Animated Name -->
+<a href="https://akashap.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&height=70&lines=Akash+Prajapati" alt="Name" />
+</a>
+
+
 <br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-7b2cbf?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=240046" />
-  <img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-9d4edd?style=for-the-badge&logo=clockify&logoColor=white&labelColor=240046" />
-  <img src="https://img.shields.io/badge/LOCATION-AHMEDABAD%2C_INDIA-c77dff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=240046" />
+
+<!-- Status Badges -->
+<img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-7b2cbf?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=10002b" />
+&nbsp;
+<img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-9d4edd?style=for-the-badge&logo=clockify&logoColor=white&labelColor=10002b" />
+&nbsp;
+<img src="https://img.shields.io/badge/LOCATION-AHMEDABAD%2C_INDIA-c77dff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002b" />
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=AakashAp01&color=9d4edd&style=flat-square&label=Profile+Views" />
+&nbsp;
+<a href="https://github.com/AakashAp01?tab=followers">
+  <img src="https://img.shields.io/github/followers/AakashAp01?color=9d4edd&style=flat-square&logo=github&label=Followers" />
+</a>
+
 </div>
-</div>
 
+---
 
+## 👨‍💻 About Me
 
-## 🚀 About Me
+```php
+<?php
 
-- 💻 **Fullstack Developer** with 2+ years of experience
-- 🏠 Based in **Ahmedabad, India**
-- 🎯 Passionate about building **scalable web applications**
-- 🌱 Currently exploring **DevOps & Cloud Technologies**
+class AkashPrajapati extends FullstackDeveloper
+{
+    public string $name     = "Akash Prajapati";
+    public string $location = "Ahmedabad, India 🇮🇳";
+    public string $email    = "aakashap309@gmail.com";
+    public int    $experience = 2; // years
 
+    public array $currentlyLearning = [
+        "Docker & Kubernetes",
+        "Cloud Architecture (AWS / GCP)",
+        "DevOps Workflows",
+    ];
 
+    public array $openTo = [
+        "Fullstack Projects",
+        "Open Source Collaboration",
+        "Freelance Opportunities",
+    ];
+
+    public string $motto = "Code is poetry written in logic ✨";
+}
+```
+
+---
 
 ## 🛠️ Tech Stack
 
-<div>
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,symfony,fastapi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codeigniter/codeigniter-plain.svg" width="48" height="48" title="CodeIgniter" style="background:#1e1e2e;border-radius:10px;padding:6px;" />
+</p>
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,vite" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🗄️ Database & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,linux,aws" />
+</p>
 
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-</div>
-
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashAp01&bg_color=0d1117&color=9d4edd&line=c77dff&point=c77dff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+<a href="https://github.com/AakashAp01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AakashAp01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9d4edd&icon_color=c77dff&text_color=e0aaff&include_all_commits=true&count_private=true" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashAp01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=9d4edd&text_color=e0aaff&langs_count=8" />
+</a>
+
+<br/>
+
+<a href="https://github.com/AakashAp01">
+  <img src="https://streak-stats.demolab.com/?user=AakashAp01&theme=tokyonight&hide_border=true&background=0d0d1a&ring=9d4edd&fire=c77dff&currStreakLabel=e0aaff&sideLabels=e0aaff&dates=7b8faa" />
+</a>
+
 </div>
 
+---
 
-## 🌟 What I'm Working On
+## 🏆 GitHub Trophies
 
-- 🔨 Building modern web applications with **Laravel & React**
-- 🎯 Learning **Docker & Kubernetes**
-- 📚 Contributing to **Open Source** projects
-- 🚀 Exploring **Cloud Architecture** (AWS/GCP)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AakashAp01&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
 
+---
 
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AakashAp01&bg_color=0d0d1a&color=c77dff&line=9d4edd&point=e0aaff&area=true&area_color=3d007a&hide_border=true&radius=8" width="100%" />
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+| 🔨 | Currently Building | Laravel & React fullstack web applications |
+|---|---|---|
+| 📦 | Open Source | Publishing npm packages & Laravel tools |
+| ☁️ | Learning | Docker, Kubernetes & Cloud Architecture |
+| 🎯 | Exploring | AWS / GCP for scalable deployments |
+
+---
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9d4edd?style=for-the-badge&logo=vercel&logoColor=white)](https://aakashap-terminal-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakashap)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AakashAp01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashap309@gmail.com)
+<a href="https://akashap.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=9d4edd" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aakashap">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+</a>
+&nbsp;
+<a href="https://github.com/AakashAp01">
+  <img src="https://img.shields.io/badge/GitHub-0d0d1a?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:aakashap309@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-0d0d1a?style=for-the-badge&logo=gmail&logoColor=D14836" />
+</a>
+
+<br/><br/>
+
+> *"Code is poetry written in logic"* crafting clean, scalable solutions one commit at a time.
 
 </div>
 
-
-
-<div align="center">
-
-**✨ "Code is poetry written in logic" ✨**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AakashAp01&color=9d4edd&style=flat-square&label=Profile+Views)
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&animation=fadeIn" width="100%"/>
