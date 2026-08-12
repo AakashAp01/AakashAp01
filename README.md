@@ -13,7 +13,7 @@
 <!-- Status Badges -->
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-7b2cbf?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=10002b" />
 &nbsp;
-<img src="https://img.shields.io/badge/EXPERIENCE-2%2B_YEARS-9d4edd?style=for-the-badge&logo=clockify&logoColor=white&labelColor=10002b" />
+<img src="https://img.shields.io/badge/EXPERIENCE-3%2B_YEARS-9d4edd?style=for-the-badge&logo=clockify&logoColor=white&labelColor=10002b" />
 &nbsp;
 <img src="https://img.shields.io/badge/LOCATION-AHMEDABAD%2C_INDIA-c77dff?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=10002b" />
 
@@ -64,7 +64,7 @@ class AkashPrajapati extends FullstackDeveloper
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,symfony,fastapi" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,symfony,fastapi,django" />
 </p>
 
 ### 🎨 Frontend
