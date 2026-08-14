@@ -40,7 +40,6 @@ class AkashPrajapati extends FullstackDeveloper
     public string $name     = "Akash Prajapati";
     public string $location = "Ahmedabad, India 🇮🇳";
     public string $email    = "aakashap309@gmail.com";
-    public int    $experience = 3+; // years
 
     public array $currentlyLearning = [
         "Docker & Kubernetes",
