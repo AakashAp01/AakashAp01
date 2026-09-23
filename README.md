@@ -56,10 +56,6 @@
   <img src="https://img.shields.io/badge/Gmail-1a0000?style=for-the-badge&logo=gmail&logoColor=cc0000" />
 </a>
 
-<br/><br/>
-
-*"Code is poetry written in logic"* crafting clean, scalable solutions one commit at a time.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
